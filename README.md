@@ -2,4 +2,4 @@
 <br>
 this is my first repository
 <br>
-Author-Turjoy Chakraborty Tushar
+Author-Turjoy Chakraborty
